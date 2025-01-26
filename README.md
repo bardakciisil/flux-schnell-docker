@@ -1,2 +1,3 @@
 # flux-schnell-docker
-Customize flux workflows
+Customize flux workflows without Comfyui
+
